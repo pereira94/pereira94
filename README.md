@@ -6,4 +6,4 @@
 - :weight_lifting_man:	:video_game:	 When I am not learning something new, you can find me at the gym or on my playstation 
 - 📫 To learn more about me, check out my [LinkedIn](https://www.linkedin.com/in/pedropereira0426/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pereira94&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pereira94&layout=compact&theme=radical)
