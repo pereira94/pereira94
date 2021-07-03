@@ -1,6 +1,6 @@
 ### Hi there. I'm Pedro. 👋
 
-- :robot:	 I'm a data analyst and graduate student looking to break into data science/engineering
+- :robot:	 I'm a data analyst looking to break into data science/engineering
 - :man_technologist:	 I’m currently learning how to create data pipelines and how to build sustainable/scalable machine learning products using Python, R, SQL and cloud technologies
 - 🌱 I am passionate about learning and self-improvement 
 - :weight_lifting_man:	:video_game:	 When I am not learning something new, you can find me at the gym or on my playstation 
